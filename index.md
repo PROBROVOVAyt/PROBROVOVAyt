@@ -1,4 +1,4 @@
-## Добро пожаловать на сайт проекта PROBROMON
+## Добро пожаловать на сайт man PROBROVOVA
 
 You can use the [editor on GitHub](https://github.com/PROBROVOVAyt/PROBROVOVAyt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
