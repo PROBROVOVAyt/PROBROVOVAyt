@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Владимир 👋
 
-<!--
-**PROBROVOVAyt/PROBROVOVAyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### О себе
+- **Программист** \| **Web-разработчик** \| **UI/UX-дизайнер**
+- Увлекаюсь созданием веб-приложений, проектированием пользовательских интерфейсов и дизайном.
+- Любимые языки программирования: **Java** и **Python**.
 
-Here are some ideas to get you started:
+### Что я делаю
+- Разрабатываю современные и удобные веб-приложения.
+- Создаю эстетичные и интуитивные UI/UX-дизайны.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Технологии и инструменты
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS
+- **Backend:** Python (Django, Flask)
+- **UI/UX:** Figma
+
+### Контакты
+- 📫 [Мой email](mailto:main@probrovova.com)
+- 💼 [Сайт](https://www.probrovova.com)  
+
+Буду рад новым интересным проектам и сотрудничеству!
