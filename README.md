@@ -16,6 +16,6 @@
 
 ### Контакты
 - 📫 [Мой email](mailto:main@probrovova.com)
-- 💼 [Сайт](https://www.probrovova.com)  
+- 💻 [Сайт](https://www.probrovova.com)  
 
 Буду рад новым интересным проектам и сотрудничеству!
