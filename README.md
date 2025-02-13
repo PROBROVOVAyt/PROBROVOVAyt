@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Vladimir</h1>
 <p>A passionate frontend developer and UI/UX-Designer</p>
 <h2>Contacts(only russian lang)</h2>
-<p>📫 [email](mailto:main@probrovova.com)
-<p>💻 [Site](https://www.probrovova.com)</p>
+<p>📫 E-Mail: main@probrovova.com
+<p>💻 Site: https://www.probrovova.com</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
