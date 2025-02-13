@@ -1,33 +1,89 @@
-<h1>Hi 👋, I'm Vladimir</h1>
-<p>A passionate frontend developer and UI/UX-Designer</p>
-<h2>Contacts(only russian lang)</h2>
-<p>📫 E-Mail: main@probrovova.com
-<p>💻 Site: https://www.probrovova.com</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.youtube.com/@pro.game." style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PROBROVOVA&show_icons=true&locale=en" alt="PROBROVOVA" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PROBROVOVA&" alt="PROBROVOVA" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PROBROVOVA&show_icons=true&locale=en&layout=compact" alt="PROBROVOVA" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PROBROVOVA" alt="PROBROVOVA" /></a></p>
+<div align="left">
+  <img height="96" src="https://avatars.githubusercontent.com/u/99301928"  />
+</div>
+
+###
+
+<h1 align="left">👋 Привет, я Владимир.</h1>
+
+###
+
+<h2 align="left">🤔 О себе:</h2>
+
+###
+
+<p align="left">Программист | Web-разработчик | UI/UX-дизайнер.<br>- Увлекаюсь созданием веб-приложений и дизайном.<br>- Любимые языки программирования: Rust и Python.<br>- Любимые технологие: Vite, TailwindCSS, Tauri и NextJS.</p>
+
+###
+
+<h2 align="left">💻 Инструменты:</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="rust logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="kotlin logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="48" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vite" height="48" alt="vite logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="48" alt="tauri logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="48" alt="wordpress logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">🔗 Соц. сети:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@pro.game." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
+<h2 align="left">🗿 Статистика Github:</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PROBROVOVAyt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PROBROVOVAyt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
