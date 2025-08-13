@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Программист | Web-разработчик | UI/UX-дизайнер.<br>- Увлекаюсь созданием веб-приложений и дизайном.<br>- Любимые языки программирования: Rust и Python.<br>- Любимые технологие: Vite, TailwindCSS, Tauri и NextJS.</p>
+<p align="left">Программист | Web-разработчик | UI/UX-дизайнер.<br>- Увлекаюсь созданием веб-приложений и дизайном.<br>- Любимые языки программирования: Rust и Python.<br>- Любимые технологие: Vite, TailwindCSS и ReactJS</p>
 
 ###
 
@@ -35,8 +35,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=rust" height="48" alt="rust logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="kotlin logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
@@ -47,10 +45,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="48" alt="tauri logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="48" alt="wordpress logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
@@ -60,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
+  <img width="8" />
 </div>
 
 ###
@@ -72,7 +67,6 @@
   <a href="https://www.youtube.com/@dexoron" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
 ###
