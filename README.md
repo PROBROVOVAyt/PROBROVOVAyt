@@ -13,7 +13,7 @@
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 - ![Kotlin](https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png&color=000000) Kotlin
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000) C++
+- ![C++](https://img.icons8.com/?size=48&id=40669&format=png&color=000000) C++
 
 ---
 
