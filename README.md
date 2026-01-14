@@ -1,8 +1,7 @@
 <h1 align="center">Привет 👋, Я Dexoron</h1>
 <h3 align="center">Я программист и веб-дизайнер. Занимаюсь front-end разработкой и созданием современных пользовательских интерфейсов. Также изучаю системное программирование.</h3>
 
-- 🔭 Сейчас работаю над [Speeks](https://github.com/dexoron/speeks-app)
-- 🌱 Изучаю **Rust и C**
+- 🌱 Изучаю **C++**
   
 ---
 
@@ -11,11 +10,10 @@
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript/TypeScript
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML5
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 - ![Kotlin](https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png&color=000000) Kotlin
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![Rust](https://img.icons8.com/?size=48&id=U41Than0pWOW&format=png&color=000000) Rust
+- ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000) C++
 
 ---
 
@@ -48,12 +46,4 @@
   <img src="https://img.shields.io/badge/NVIDIA%20RTX_4060_8GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/32GB%20DDR4%20RAM-grey.svg?style=for-the-badge&logoWidth=40&labelWidth=100&fontSize=20" height="28">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</div>
-
-<br>
-<br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexoron&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexoron&layout=compact&theme=dark" />
 </div>
