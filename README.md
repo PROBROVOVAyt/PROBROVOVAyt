@@ -1,49 +1,98 @@
-<h1 align="center">Привет 👋, Я Dexoron</h1>
-<h3 align="center">Я программист и веб-дизайнер. Занимаюсь front-end разработкой и созданием современных пользовательских интерфейсов. Также изучаю системное программирование.</h3>
-
-- 🌱 Изучаю **C++**
-  
----
-
-## Языки программирования, которые я знаю:
-- ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript/TypeScript
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![Kotlin](https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png&color=000000) Kotlin
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/?size=48&id=40669&format=png&color=000000) C++
-
----
-
-<h2>ОС, которые я использую</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<div align="center">
+    <img src="img/logo.png" width="128px" style="vertical-align: middle;"/>
+    <img src="img/Dexoron-Text.png" height="96px" style="margin-left: 16px; vertical-align: middle;"/>
 </div>
-
 <br>
 
-<h2>Технологический стек</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-</div>
+# Hello, i'm Dexoron
 
-<br>
+I'm a developer and designer <br>
+I love web design and web development <br>
+I also create content on YouTube and I'm also a streamer on Twitch <br>
 
-<h2>Мой ПК, на котором я работаю</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20RTX_4060_8GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/32GB%20DDR4%20RAM-grey.svg?style=for-the-badge&logoWidth=40&labelWidth=100&fontSize=20" height="28">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</div>
+## About me
+
+🔭 My website [dexoron.su](https://dexoron.su) <br>
+🌱 I’m currently learning C and C++ <br>
+💬 Ask me about web development and design <br>
+
+### My YouTube stats
+
+<p align="left">
+    <a href="https://www.youtube.com/@dexoron?sub_confirmation=1">
+        <img alt="youtube subscribers" title="Subscriber" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCj2j23ad0Rqrsm79JJZQBjA?color=%23a7c080&label=SUBSCRIBER&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
+    </a> 
+    <a href="https://www.youtube.com/@dexoron">
+        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCj2j23ad0Rqrsm79JJZQBjA?color=%23dbbc7f&logo=eye&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
+    </a> 
+</p>
+
+
+
+### My GitHub stats
+
+<p align="left">
+    <a href="https://github.com/dexoron?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dexoron?color=%237fbbb3&labelColor=%232d353b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/dexoron?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dexoron?color=%23e69875&style=for-the-badge&labelColor=%232d353b&logo=star"/>
+    </a>
+</p>
+
+
+
+## Tech stack
+
+<p align="left">
+    <img src="img/tech-stack/linux.png" alt="Linux"/>
+    <img src="img/tech-stack/vscode.png" alt="VS Code"/>
+    <img src="img/tech-stack/figma.png" alt="Figma"/>
+    <img src="img/tech-stack/bash.png" alt="Bash"/>
+    <img src="img/tech-stack/git.png" alt="Git"/>
+    <img src="img/tech-stack/github.png" alt="GitHub"/>
+    <img src="img/tech-stack/gitlab.png" alt="GitLab"/>
+    <img src="img/tech-stack/html.png" alt="HTML5"/>
+    <img src="img/tech-stack/css.png" alt="CSS3"/>
+    <img src="img/tech-stack/javascript.png" alt="JavaScript"/>
+    <img src="img/tech-stack/typescript.png" alt="TypeScript"/>
+    <img src="img/tech-stack/react.png" alt="React"/>
+    <img src="img/tech-stack/tailwindcss.png" alt="TailwindCSS"/>
+    <img src="img/tech-stack/nodejs.png" alt="Node.js"/>
+    <img src="img/tech-stack/bun.png" alt="Bun"/>
+    <img src="img/tech-stack/vite.png" alt="Vite"/>
+    <img src="img/tech-stack/c.png" alt="C"/>
+    <img src="img/tech-stack/cpp.png" alt="C++"/>
+    <img src="img/tech-stack/python.png" alt="Python"/>
+</p>
+
+**i'm learning C and C++** <br>
+
+
+
+## My PC
+
+**CPU:** AMD Ryzen 5 3600 <br>
+**GPU:** NVIDIA GeForce RTX 4060 <br>
+**RAM:** 32GB DDR4 <br>
+
+**OS:** Arch Linux <br>
+**OS 2:** Debian 12 <br>
+
+
+
+## Contact me
+
+**YouTube:** [https://www.youtube.com/@dexoron](https://www.youtube.com/@dexoron) <br>
+**Twitch:** [https://www.twitch.tv/dexoron](https://www.twitch.tv/dexoron) <br>
+**GitHub:** [https://github.com/dexoron](https://github.com/dexoron) <br>
+**GitLab:** [https://gitlab.com/dexoron](https://gitlab.com/dexoron) <br>
+**Discord:** @dexoron <br>
+**Telegram:** @dexoron <br>
+**Email:** main@dexoron.su <br>
+
+
+
+## My GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dexoron&theme=everforest&hide_border=true&bg_color=0d1117&color=d3c6aa&line=2d353b&point=white" alt="Contrinbution Graph" />
