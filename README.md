@@ -20,10 +20,10 @@ I also create content on YouTube and I'm also a streamer on Twitch <br>
 
 <p align="left">
     <a href="https://www.youtube.com/@dexoron?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscriber" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCj2j23ad0Rqrsm79JJZQBjA?color=%23a7c080&label=SUBSCRIBER&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
+        <img alt="youtube subscribers" title="Subscriber" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyZJWrU3Z4Rges0O_T9a9LQ?color=%23a7c080&label=SUBSCRIBER&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
     </a> 
     <a href="https://www.youtube.com/@dexoron">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCj2j23ad0Rqrsm79JJZQBjA?color=%23dbbc7f&logo=eye&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
+        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyZJWrU3Z4Rges0O_T9a9LQ?color=%23dbbc7f&logo=eye&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
     </a> 
 </p>
 
