@@ -12,8 +12,8 @@ I also create content on YouTube and I'm also a streamer on Twitch <br>
 
 ## About me
 
-🔭 My website [dexoron.su](https://dexoron.su) <br>
-🌱 I’m currently learning C and C++ <br>
+🔭 Working on the [DCR](https://dcr.dexoron.su) project <br>
+🌱 I’m currently learning Rust <br>
 💬 Ask me about web development and design <br>
 
 ### My YouTube stats
@@ -47,6 +47,7 @@ I also create content on YouTube and I'm also a streamer on Twitch <br>
 <p align="left">
     <img src="img/tech-stack/linux.png" alt="Linux"/>
     <img src="img/tech-stack/vscode.png" alt="VS Code"/>
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/RustRover_icon.png" alt="Rust Rover" height="64px"/>
     <img src="img/tech-stack/figma.png" alt="Figma"/>
     <img src="img/tech-stack/bash.png" alt="Bash"/>
     <img src="img/tech-stack/git.png" alt="Git"/>
@@ -56,7 +57,7 @@ I also create content on YouTube and I'm also a streamer on Twitch <br>
     <img src="img/tech-stack/css.png" alt="CSS3"/>
     <img src="img/tech-stack/javascript.png" alt="JavaScript"/>
     <img src="img/tech-stack/typescript.png" alt="TypeScript"/>
-    <img src="img/tech-stack/react.png" alt="React"/>
+    <img src="img/tech-stack/react.png" alt="React.JS"/>
     <img src="img/tech-stack/tailwindcss.png" alt="TailwindCSS"/>
     <img src="img/tech-stack/nodejs.png" alt="Node.js"/>
     <img src="img/tech-stack/bun.png" alt="Bun"/>
@@ -64,9 +65,10 @@ I also create content on YouTube and I'm also a streamer on Twitch <br>
     <img src="img/tech-stack/c.png" alt="C"/>
     <img src="img/tech-stack/cpp.png" alt="C++"/>
     <img src="img/tech-stack/python.png" alt="Python"/>
+    <img src="https://github.com/rust-lang/rust-artwork/blob/bf0b3272f9ba8d22f7fd45e408496d05621b3b5c/logo/rust-logo-64x64.png?raw=true" alt="Rust">
 </p>
 
-**i'm learning C and C++** <br>
+**i'm learning Rust** <br>
 
 
 
