@@ -1,104 +1,48 @@
-<div align="center">
-    <img src="img/logo.png" width="128px" style="vertical-align: middle;"/>
-    <img src="img/Dexoron-Text.png" height="96px" style="margin-left: 16px; vertical-align: middle;"/>
-</div>
-<br>
+# Hi, I'm Dexoron 👋
 
-# Hello, i'm Dexoron
-
-I'm a developer and designer <br>
-I love web design and web development <br>
-I also create content on YouTube and I'm also a streamer on Twitch <br>
+Software developer, indie gamedev, and web & UI/UX designer.
 
 ## About me
 
-🔭 Working on the [DCR](https://dcr.dexoron.su) project <br>
-🌱 I’m currently learning Rust <br>
-💬 Ask me about web development and design <br>
+🔧 Building **[DCR](https://dcr-tool.ru)** — a Cargo-inspired cross-platform build & dependency manager for C/C++, written in Rust
+🎮 Making small games in **Godot 4** — check them out at [games.dexoron.su](https://games.dexoron.su)
+🌱 Learning Haskell for fun, exploring functional programming
+💬 Ask me about Rust, C, build tooling, or web/UI design
+📍 Irkutsk, Russia
 
-### My YouTube stats
+## Projects
 
-<p align="left">
-    <a href="https://www.youtube.com/@dexoron?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscriber" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyZJWrU3Z4Rges0O_T9a9LQ?color=%23a7c080&label=SUBSCRIBER&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
-    </a> 
-    <a href="https://www.youtube.com/@dexoron">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyZJWrU3Z4Rges0O_T9a9LQ?color=%23dbbc7f&logo=eye&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
-    </a> 
-</p>
+### [DCR](https://dcr-tool.ru)
+Cargo-like project & build manager for C/C++. Cross-platform (Linux, macOS, Windows, BSD), dependency management, incremental builds, cross-compilation. Distributed via AUR, Homebrew, and the Dexoron Packages registry.
 
-
-
-### My GitHub stats
-
-<p align="left">
-    <a href="https://github.com/dexoron?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dexoron?color=%237fbbb3&labelColor=%232d353b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/dexoron?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dexoron?color=%23e69875&style=for-the-badge&labelColor=%232d353b&logo=star"/>
-    </a>
-</p>
-
-
+### [Games](https://games.dexoron.su)
+Small games built in Godot 4, with web export support. Latest release: a Flappy Bird remake with parallax backgrounds, adaptive layouts, and persistent high scores.
 
 ## Tech stack
 
-<p align="left">
-    <img src="img/tech-stack/linux.png" alt="Linux"/>
-    <img src="img/tech-stack/vscode.png" alt="VS Code"/>
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/RustRover_icon.png" alt="Rust Rover" height="64px"/>
-    <img src="img/tech-stack/figma.png" alt="Figma"/>
-    <img src="img/tech-stack/bash.png" alt="Bash"/>
-    <img src="img/tech-stack/git.png" alt="Git"/>
-    <img src="img/tech-stack/github.png" alt="GitHub"/>
-    <img src="img/tech-stack/gitlab.png" alt="GitLab"/>
-    <img src="img/tech-stack/html.png" alt="HTML5"/>
-    <img src="img/tech-stack/css.png" alt="CSS3"/>
-    <img src="img/tech-stack/javascript.png" alt="JavaScript"/>
-    <img src="img/tech-stack/typescript.png" alt="TypeScript"/>
-    <img src="img/tech-stack/react.png" alt="React.JS"/>
-    <img src="img/tech-stack/tailwindcss.png" alt="TailwindCSS"/>
-    <img src="img/tech-stack/nodejs.png" alt="Node.js"/>
-    <img src="img/tech-stack/bun.png" alt="Bun"/>
-    <img src="img/tech-stack/vite.png" alt="Vite"/>
-    <img src="img/tech-stack/c.png" alt="C"/>
-    <img src="img/tech-stack/cpp.png" alt="C++"/>
-    <img src="img/tech-stack/python.png" alt="Python"/>
-    <img src="https://github.com/rust-lang/rust-artwork/blob/bf0b3272f9ba8d22f7fd45e408496d05621b3b5c/logo/rust-logo-64x64.png?raw=true" alt="Rust">
-</p>
+[![Linux](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/linux.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/linux.png) [![VS Code](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/vscode.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/vscode.png) [![Figma](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/figma.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/figma.png) [![Bash](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/bash.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/bash.png) [![Git](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/git.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/git.png) [![GitHub](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/github.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/github.png) [![GitLab](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/gitlab.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/gitlab.png) [![HTML5](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/html.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/html.png) [![CSS3](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/css.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/css.png) [![JavaScript](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/javascript.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/javascript.png) [![TypeScript](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/typescript.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/typescript.png) [![React.JS](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/react.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/react.png) [![TailwindCSS](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/tailwindcss.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/tailwindcss.png) [![Node.js](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/nodejs.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/nodejs.png) [![Bun](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/bun.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/bun.png) [![Vite](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/vite.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/vite.png) [![C](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/c.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/c.png) [![C++](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/cpp.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/cpp.png) [![Python](https://github.com/dexoron/dexoron/raw/gh-pages/img/tech-stack/python.png)](/dexoron/dexoron/blob/gh-pages/img/tech-stack/python.png) [![Rust](https://github.com/rust-lang/rust-artwork/raw/bf0b3272f9ba8d22f7fd45e408496d05621b3b5c/logo/rust-logo-64x64.png?raw=true)](https://github.com/rust-lang/rust-artwork/blob/bf0b3272f9ba8d22f7fd45e408496d05621b3b5c/logo/rust-logo-64x64.png?raw=true)
 
-**i'm learning Rust** <br>
+**Currently deep in Rust — writing DCR backend with it.**
 
+## Setup
 
-
-## My PC
-
-**CPU:** AMD Ryzen 5 3600 <br>
-**GPU:** NVIDIA GeForce RTX 4060 <br>
-**RAM:** 32GB DDR4 <br>
-
-**OS:** Arch Linux <br>
-**OS 2:** Debian 12 <br>
-
-
+**OS:** ArchLinux · FreeBSD (secondary)
+**Editors:** VS Code · JetBrains IDEs · Neovim
+**CPU:** AMD Ryzen 5 3600
+**GPU:** NVIDIA GeForce RTX 4060 (8GB)
+**RAM:** 32GB DDR4
 
 ## Contact me
 
-**YouTube:** [https://www.youtube.com/@dexoron](https://www.youtube.com/@dexoron) <br>
-**Twitch:** [https://www.twitch.tv/dexoron](https://www.twitch.tv/dexoron) <br>
-**GitHub:** [https://github.com/dexoron](https://github.com/dexoron) <br>
-**GitLab:** [https://gitlab.com/dexoron](https://gitlab.com/dexoron) <br>
-**Discord:** @dexoron <br>
-**Telegram:** @dexoron <br>
-**Email:** main@dexoron.su <br>
+**Website:** <https://dexoron.su>
+**GitHub:** <https://github.com/dexoron>
+**GitLab:** <https://gitlab.com/dexoron>
+**Telegram (personal):** <https://t.me/dexoron>
+**Telegram (channel):** <https://t.me/tg_dexoron>
+**Discord (personal):** <https://discord.com/users/840073853367484436>
+**Discord (server):** <https://discord.gg/9RJTh6PPRT>
+**Email:** <main@dexoron.su>
 
+### Profile views
 
-
-## My GitHub Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dexoron&theme=everforest&hide_border=true&bg_color=0d1117&color=d3c6aa&line=2d353b&point=white" alt="Contrinbution Graph" />
-
-## Views of my GitHub profile
-
-<img src="https://count.getloli.com/@Dexoron?name=Dexoron&theme=booru-helltaker&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+[![](https://camo.githubusercontent.com/98f780c04ffc27b173f21bfbe2d3ce373edd9cc32573a6f70e3d4c4f57620704/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f404465786f726f6e3f6e616d653d4465786f726f6e267468656d653d626f6f72752d68656c6c74616b65722670616464696e673d37266f66667365743d3026616c69676e3d63656e746572267363616c653d3126706978656c617465643d31266461726b6d6f64653d6175746f)](https://github.com/dexoron)
